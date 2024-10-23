@@ -1,7 +1,7 @@
 import React from "react";
 import { useState, useEffect } from "react";
 import NavBar from "../Components/NavBar";
-import Search from "../assets/svg/Search.svg";
+// import Search from "../assets/svg/Search.svg";
 import Heart from "../assets/svg/Heart.svg";
 import Cart from "../assets/svg/Cart.svg";
 import Rectangle from "../assets/svg/Rectangle.svg";
