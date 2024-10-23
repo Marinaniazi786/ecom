@@ -13,6 +13,8 @@ import SignUp from "./Pages/SignUp";
 import SingleProduct from "./Pages/SingleProduct";
 import Trial from "./Pages/Trial";
 
+// jdj
+
 function App() {
   const [count, setCount] = useState(0);
 
